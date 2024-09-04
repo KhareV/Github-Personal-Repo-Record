@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "The Complete Web Developer in 2024: Zero to Mastery",
+        "description": "Master full-stack web development by building projects with HTML, CSS, JavaScript, React, Node.js, Machine Learning, and more.",
+        "link": "https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery",
+        "level": "All Levels"
+    },
+    {
+        "id": 2,
+        "title": "CS50's Introduction to Computer Science",
+        "description": "An entry-level course taught by David Malan, covering fundamental concepts in computer science and programming.",
+        "link": "https://www.edx.org/course/cs50s-introduction-to-computer-science",
+        "level": "Beginner"
+    },
+    {
+        "id": 3,
+        "title": "JavaScript: Understanding the Weird Parts",
+        "description": "An advanced course that dives deep into the core mechanisms of JavaScript, helping you to master the language.",
+        "link": "https://www.udemy.com/course/understand-javascript",
+        "level": "Advanced"
+    },
+    {
+        "id": 4,
+        "title": "Python for Everybody",
+        "description": "A comprehensive course by Dr. Charles Severance that teaches you Python programming from the basics to more advanced concepts.",
+        "link": "https://www.coursera.org/specializations/python",
+        "level": "Beginner"
+    },
+    {
+        "id": 5,
+        "title": "Full-Stack Web Development with React",
+        "description": "Learn front-end and hybrid mobile development, with server-side support, using React, React Native, and Node.js.",
+        "link": "https://www.coursera.org/specializations/full-stack-react",
+        "level": "Intermediate"
+    }
+]
