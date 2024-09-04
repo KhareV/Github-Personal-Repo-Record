@@ -1,3 +1,34 @@
+# GitHub Repo Tracker
+
+A Next.js application that tracks GitHub repositories, utilizing `react-icons` for beautiful icons and `react-spinners` for loading animations. The app allows users to search and view their repositories seamlessly.
+
+## Features
+
+- **Search GitHub Repositories**: Find and track your GitHub repositories with ease.
+- **Directory Listing**: View the directory structure of your repositories.
+- **Loading Indicators**: Smooth and modern loading animations with `react-spinners`.
+- **Icon Integration**: Beautiful icons with `react-icons` for a visually appealing interface.
+
+## Getting Started
+
+Follow these instructions to set up and run the project locally.
+
+### Prerequisites
+
+- Node.js (v14.x or later)
+- npm (v6.x or later) or yarn (v1.x or later)
+- A GitHub account with a personal access token (PAT) for API requests
+
+![Screenshot of GitHub Repo Tracker](b1.png)
+
+![Screenshot of GitHub Repo Tracker](b2.png)
+
+![Screenshot of GitHub Repo Tracker](b3.png)
+
+![Screenshot of GitHub Repo Tracker](b4.png)
+
+![Screenshot of GitHub Repo Tracker](b5.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
